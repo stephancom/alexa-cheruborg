@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "CountdownIntent", "slots": [{"name": "event", "type": "LIST_OF_EVENTS"}]
+    },
+    {"intent": "AMAZON.HelpIntent"},
+    {"intent": "AMAZON.StopIntent"},
+    {"intent": "AMAZON.CancelIntent"}
+  ]
+}

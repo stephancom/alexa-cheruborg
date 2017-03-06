@@ -1,0 +1,11 @@
+CountdownIntent when {event}
+CountdownIntent when is {event}
+CountdownIntent when do {event}
+CountdownIntent when can {event}
+CountdownIntent when does {event}
+CountdownIntent how long til {event}
+CountdownIntent how long until {event}
+CountdownIntent how many days til {event}
+CountdownIntent how many days until {event}
+CountdownIntent how long do I have to wait til {event}
+CountdownIntent how long do I have to wait until {event}

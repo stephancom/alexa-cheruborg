@@ -1,0 +1,29 @@
+{
+  "name": "cheruborg",
+  "version": "0.1.0",
+  "description": "Cheruborg's Playa Info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephancom/alexa-cheruborg"
+  },
+  "keywords": [
+    "burning man",
+    "playa",
+    "black rock city",
+    "alexa",
+    "skill"
+  ],
+  "author": "stephan.com",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/stephancom/alexa-cheruborg/issues"
+  },
+  "homepage": "https://github.com/stephancom/alexa-cheruborg#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  }
+}
